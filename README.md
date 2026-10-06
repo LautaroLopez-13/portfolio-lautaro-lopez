@@ -9,7 +9,6 @@ Portfolio personal realizado para el Trabajo Práctico N.º 1. Presenta mi perfi
 - JavaScript
 - HTML semántico
 - CSS3
-- Lucide React
 
 ## Requisitos
 
