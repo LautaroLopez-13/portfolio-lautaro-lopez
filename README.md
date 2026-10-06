@@ -1,43 +1,35 @@
-# Portfolio Personal — Lautaro Nicolas Lopez
+# Portfolio Personal
 
-Portfolio personal realizado para el Trabajo Práctico N.º 1. Presenta mi perfil como estudiante de Ingeniería en Sistemas, mis habilidades y proyectos académicos.
+Portfolio personal desarrollado como Trabajo Práctico N° 1.
 
-## Stack
+## Sobre el proyecto
+
+Este sitio fue realizado para presentar mi perfil como estudiante de Ingeniería en Sistemas, mis conocimientos y algunos de los proyectos desarrollados durante la carrera.
+
+## Stack utilizado
 
 - React
 - Vite
 - JavaScript
-- HTML semántico
-- CSS3
+- HTML
+- CSS
 
-## Requisitos
+## Ejecutar el proyecto localmente
 
-- Node.js 18 o superior recomendado.
-- npm.
+Para ejecutar el proyecto es necesario tener Node.js instalado.
 
-## Ejecutar localmente
+Instalar las dependencias:
 
-```bash
 npm install
+
+Iniciar el proyecto:
+
 npm run dev
-```
 
-Luego abrir la URL que indique Vite en la terminal.
-
-## Build de producción
-
-```bash
-npm run build
-npm run preview
-```
-
-## Deploy
-
-El proyecto está preparado para desplegarse en Vercel, Netlify o GitHub Pages. Para Vercel, importar el repositorio de GitHub y usar el comando de build `npm run build`.
+Luego abrir en el navegador la dirección que aparece en la terminal.
 
 ## Autor
 
-Lautaro Nicolas Lopez — Funes, Santa Fe, Argentina.
-
-GitHub: https://github.com/LautaroLopez-13
-Email: loplautylolo13@gmail.com
+Lautaro Nicolas Lopez  
+Estudiante de Ingeniería en Sistemas  
+Funes, Santa Fe, Argentina
